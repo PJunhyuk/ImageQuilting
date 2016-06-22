@@ -14,12 +14,12 @@ Using Matlab.
 - For image quilting
   1. Download all Matlab codes in one folder.
   1. Open quilt_simple.m
-  1. Input <cmdcode_quilt_simple>
+  1. Input "cmdcode_quilt_simple"
   
 - For texture transfer
   1. Download all Matlab codes in one folder.
   1. Open texture_transfer.m
-  1. Input <cmdcode_texture_transfer>
+  1. Input "cmdcode_texture_transfer"
 
 ## Cmdcodes
 cmdcode_quilt_simple
