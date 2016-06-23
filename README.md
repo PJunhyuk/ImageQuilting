@@ -5,12 +5,7 @@ Image Quilting for Texture Synthesis and Transfer _ 201502 individual research i
 Synthesizing images by stitching together small patches.
 Using Matlab.
 
-
-## References
-- Image Quilting for Texture Synthesis and Transfer(Alexei A. Efros, William T. Freeman)
-  - link : http://graphics.cs.cmu.edu/people/efros/research/quilting/quilting.pdf
-
-## HowToUse
+## Usage
 - For image quilting
   1. Download all Matlab codes in one folder.
   1. Open quilt_simple.m
@@ -21,7 +16,7 @@ Using Matlab.
   1. Open texture_transfer.m
   1. Input "cmdcode_texture_transfer"
 
-## Cmdcodes
+#### Cmdcodes
 cmdcode_quilt_simple
 
 ```
@@ -56,3 +51,7 @@ imout = texture_transfer(texture, target, patchsize, overlap, tol);
 imout = imout / 255;
 imshow(imout);
 ```
+
+## References
+- Image Quilting for Texture Synthesis and Transfer(Alexei A. Efros, William T. Freeman)
+  - link : http://graphics.cs.cmu.edu/people/efros/research/quilting/quilting.pdf
