@@ -1,9 +1,20 @@
 # ImageQuilting
-Image Quilting for Texture Synthesis and Transfer _ 201502 individual research in Shim lab
+Image Quilting for Texture Synthesis and Transfer
 
 ## Explanation
 Synthesizing images by stitching together small patches.
 Using Matlab.
+
+## Results
+#### Image Quilting
+![input_2.bmp](https://raw.githubusercontent.com/PJunhyuk/ImageQuilting/master/img/image-quilting/input_2.bmp)
+![iq-result_2.png](https://raw.githubusercontent.com/PJunhyuk/ImageQuilting/master/img/image-quilting/iq-result_2.png)
+#### Texture Synthesis
+![texture_4.jpg](https://raw.githubusercontent.com/PJunhyuk/ImageQuilting/master/img/texture-synthesis/texture_4.jpg)
+
+![target.jpg](https://raw.githubusercontent.com/PJunhyuk/ImageQuilting/master/img/texture-synthesis/target.jpg)
+
+![ts-result_4.jpg](https://raw.githubusercontent.com/PJunhyuk/ImageQuilting/master/img/texture-synthesis/ts-result_4.jpg)
 
 ## Usage
 - For image quilting
